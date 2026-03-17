@@ -2,7 +2,9 @@
 
 Terminus--Call of Duty Black Ops 6
 
-🔗 **[Acesse online](https://saulomiller.github.io/bo6-terminus)**
+🔗 **[Acesse online](https://saulomiller.github.io/bo6-terminus)**<br>
+<img width="670" height="1268" alt="image" src="https://github.com/user-attachments/assets/24780cad-e3a3-4238-8f9a-ac774d3b3fab" />
+
 
 
 quações resolvidas
